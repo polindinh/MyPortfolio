@@ -1,0 +1,10 @@
+
+
+/* @font-face */ 
+
+@font-face{
+    font-family: 'Barrio', cursive;
+    /* font-family: "Roboto"; */
+    src: '../fonts/Roboto/Barrio-Regular.ttf';
+}
+
