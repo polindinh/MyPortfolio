@@ -195,13 +195,13 @@
 }
 
 .site-main .brand-area .experience-area .years-area .years{
-    font: normal bold 84px/40px var(--roboto);
+    font: normal bold 84px/40px;
     color: var(--primary-color2);
     z-index: 2;
 }
 
 .site-main .brand-area .experience-area .years-area h2 > span{
-    font: normal 600 22px/30px var(--roboto);
+    font: normal 600 22px/30px;
 }
 
 .site-main .brand-area .experience-area .call-area{
